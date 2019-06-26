@@ -11,6 +11,7 @@ namespace DemoGiaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("this version is second");
         }
     }
 }
